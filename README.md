@@ -6,7 +6,7 @@
 📧 Email: aswins3112sand@gmail.com  
 🔗 LinkedIn: linkedin.com/in/aswin3112  
 💻 GitHub: github.com/aswin3112sand  
-🆔 **TRN: 332500319192** *(For future reference, not for public verification use)*
+
 
 ---
 
