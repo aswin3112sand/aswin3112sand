@@ -1,74 +1,75 @@
 # 👋 Hi, I'm **Aswin S**
 
-🚀 **Java Full Stack Developer (Fresher)**  
+🚀 **Java Full Stack Developer | Spring Boot • React • MySQL • REST APIs**  
 📍 Thoothukudi (Tuticorin), Tamil Nadu, India 🇮🇳  
-📞 +91 88256 02356  
-📧 Email: aswins3112sand@gmail.com  
-🔗 LinkedIn: linkedin.com/in/aswin3112  
-💻 GitHub: github.com/aswin3112sand  
-
+📞 +91 8825602356  
+📧 **Email:** [aswins3112sand@gmail.com](mailto:aswins3112sand@gmail.com)  
+🔗 **LinkedIn:** linkedin.com/in/aswin3112  
+💻 **GitHub:** github.com/aswin3112sand  
+🌐 **Portfolio:** https://aswin-portfolio-vdca.onrender.com
 
 ---
 
 ## 🚀 Professional Overview
-I build **real-world, scalable, and secure full-stack web applications** using:
-- **Backend:** Spring Boot (MVC + REST), JWT Authentication, Spring Security basics, JPA CRUD with MySQL
-- **Frontend:** Thymeleaf, Bootstrap 5, Tailwind CSS, GSAP/Framer Motion for smooth UI effects
-- **Deployment Mindset:** Docker local build, Render & Vercel deployment exposure
-- **Core Focus:** Clean architecture, maintainable code, secure API workflows, and production-ready thinking
+Backend-first full-stack developer passionate about building **scalable, secure, and production-ready applications** with clean architecture and reliable API workflows.
+
+### Backend Skills
+- Spring Boot (MVC + REST APIs)
+- JWT Authentication & OAuth basics
+- Spring Security basics
+- JPA/Hibernate CRUD
+- MySQL query optimization (Joins, Indexing)
+- Redis caching exposure
+- Validations & Global Exception Handling
+
+### Frontend Skills
+- React + Vite
+- Thymeleaf, Bootstrap 5, Tailwind CSS
+- GSAP & Framer Motion (UI interactions)
+- Mobile-First Responsive UI
+- Performance tuning (CLS ~0.01)
+
+### Deployment & Tools
+- Docker (Local build)
+- Render, Railway, Koyeb, Hostinger VPS
+- Nginx + HTTPS setup basics
+- Git, GitHub, Maven, Postman
+- IntelliJ IDEA, Eclipse, VS Code, Figma
 
 ---
 
-## 🧩 Portfolio Highlights *(Pinned Projects)*
-### 🏨 Hotel Booking System
-- Role-based booking workflow using **Spring Boot MVC**
-- **MySQL relational schema + Spring Data JPA CRUD**
-- Dynamic UI rendering via **Thymeleaf**
-- API flow validated with **Postman**
-
-### 🏡 RealNest – Real Estate APIs
-- REST endpoints for **property listing + search**
-- Layered backend design
-- JWT token-based API access
-- Tested using Postman
-
-### 💃 Dance Tutorial Platform *(Premium Unlock Flow)*
-- Responsive tutorial UI
-- Razorpay **Order API test mode**
-- **Signature verification concept applied**
-- Premium content unlock workflow
-
-### 🌐 AS NETS – Business Showcase Site
-- Product showcase UI for **Balcony Safety Nets + Cricket Practice Nets**
-- Real client-driven **UI improvements**
-- Mobile responsive & user-friendly design
-- Business requirement translation into clean UI
+## 🛠 Tech Badges
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=postman&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 💻 Technical Skills *(Career Relevant Only)*
-**Languages:** Java | JavaScript | HTML5 | CSS3 | SQL  
-**Backend:** Spring Boot | Spring MVC | REST APIs | JWT | Spring Data JPA | Hibernate (Basics) | Spring Security (Basics)  
-**Frontend:** Thymeleaf | Bootstrap 5 | Tailwind CSS | GSAP | Framer Motion | Responsive UI  
-**Database:** MySQL | H2 (Dev DB)  
-**Deployment:** Docker (Local Build) | Render | Vercel  
-**Tools & IDEs:** Git | GitHub | Maven | Postman | IntelliJ IDEA | Eclipse | VS Code  
-**Methodology:** Agile | SDLC | MVC Architecture  
+## GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswin3112sand&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswin3112sand&layout=compact&theme=radical&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aswin3112sand&theme=radical&hide_border=true)
 
 ---
 
-## 📜 Certification
-![GUVI IIT Madras Java Full Stack Certificate](https://drive.google.com/file/d/13vJsnuwVT1U6ViQVfCrnvSUbDrz_1LsW/view?usp=drive_link)
-
-**Java Full Stack Development – GUVI (IIT Madras Certified, Ongoing)**  
-⭐ **Grade: A** | 🗓️ **Issued: 23-Dec-2025**
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=aswin3112sand&theme=radical&no-frame=true&margin-w=8)
 
 ---
 
-## 🎯 Career Goal
-> **Backend-first full-stack developer focused on secure APIs, clean UI integration, scalability, and deployment-ready applications.**
+## 📌 Pinned Projects 
+| Project | GitHub Repo | Live Demo | Impact |
+|--------|------------|----------|--------|
+| **Hotel Booking System** | https://github.com/aswin3112sand/Hotel-booking--1- |https://hotel-booking-1-2.onrender.com| 35% faster DB queries, 120+ API tests, 98% reliability |
+| **RealNest Portal**      | https://github.com/aswin3112sand/realnest-thymeleaf-java21| https://realnest-thymeleaf-java21.onrender.com | 200+ listings/page supported, 95% API success |
+| **Dance Tutorial**       | https://github.com/aswin3112sand/dance-500-bundle | asdancz.in | 500+ steps, 50+ leads/day, 16+ users 5★ rating |
+
 
 ---
 
-⭐ *Passionate Builder | Secure API Focus | Scalable Design Thinker | Deployment Ready*
-
+⭐ *Scalable Systems • Secure APIs • Mobile-Optimized UX • Real-World Deployment Ready*
