@@ -123,4 +123,44 @@ width="100%" />
 ## 📊 Elite Analytics
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aswin3112sand&theme=dracula&row=2&column=5&margin-w=15" width=
+<img src="https://github-profile-trophy.vercel.app/?username=aswin3112sand&theme=dracula&row=2&column=5&margin-w=15" width="90%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aswin3112sand&theme=dracula&hide_border=true" width="47%" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin3112sand&layout=compact&theme=dracula&hide_border=true" width="47%" />
+</div>
+
+---
+
+## 💼 Executive Connect
+
+<div align="center">
+
+<a href="https://aswin-portfolio-vdca.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/aswin3112">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:aswins3112sand@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- ===================== SKY BLUE FOOTER ===================== -->
+<div align="center">
+<img 
+src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=120&section=footer&text=Enterprise%20Grade%20Developer&fontSize=24&fontColor=ffffff"
+width="100%" />
+</div>
+
+<div align="center" style="font-size:12px;color:#888;">
+<i>Built with ❤️ using GitHub README Magic ✨</i>
+</div>
