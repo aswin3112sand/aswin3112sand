@@ -1,7 +1,7 @@
-<!-- ===================== ANIMATED BANNER ===================== -->
+<!-- ===================== SAFE ANIMATED BANNER ===================== -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Aswin%20S&fontSize=48&fontColor=ffffff&desc=Java%20Full%20Stack%20Developer&descAlignY=65&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=170&section=header&text=Aswin%20S&fontSize=48&fontColor=ffffff&desc=Java%20Full%20Stack%20Developer&descAlignY=65"
     width="100%"
   />
 </p>
@@ -9,7 +9,7 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=900&color=2575FC&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;Spring+Boot+%7C+React+%7C+REST+APIs;Performance+%26+Clean+Code+First"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=2575FC&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;Spring+Boot+%7C+React+%7C+REST+APIs;Performance+%26+Clean+Code+First"
   />
 </p>
 
@@ -21,8 +21,8 @@
 ---
 
 ## 👋 About Me
-- 🚀 **Java Full Stack Developer** from **Thoothukudi, Tamil Nadu, India 🇮🇳**  
-- I build **scalable, secure, and production-ready** applications with clean architecture  
+- 🚀 **Java Full Stack Developer** — Thoothukudi, Tamil Nadu 🇮🇳  
+- I build **scalable, secure, production-ready** applications  
 - Strong focus on **high-performance APIs + mobile-first UI + real deployments**
 
 ---
@@ -44,7 +44,7 @@
 
 ---
 
-## 🚀 Featured Projects (Pinned)
+## 🚀 Featured Projects
 
 | Project | GitHub Repo | Live Demo | Impact |
 |--------|------------|------------|--------|
@@ -97,12 +97,10 @@
 ## ⭐ What I stand for
 > **Scalable Systems • Secure APIs • Mobile-Optimized UX • Production-Ready Deployments**
 
----
-
-<!-- ===================== ANIMATED FOOTER ===================== -->
+<!-- ===================== SAFE FOOTER ===================== -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=90&section=footer"
     width="100%"
   />
 </p>
