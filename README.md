@@ -23,39 +23,40 @@
 
 ---
 
-# 👨‍💻 About Me — **Aswin S**
+## 👨‍💻 **About Me — Aswin S**
 
-> **Java Full Stack Developer | Spring Boot Specialist | Performance Engineer**
+> **Java Full Stack Developer • Spring Boot Specialist • Performance Engineer**
 
-I design and build:
-- Scalable REST APIs  
-- Secure authentication systems  
-- Fast, mobile-first web apps  
-- Real production deployments  
+**What I build**
+- ⚡ Scalable REST APIs  
+- 🔐 Secure authentication systems  
+- 📱 Fast, mobile-first web applications  
+- ☁️ Real production cloud deployments  
 
-📍 **Thoothukudi, Tamil Nadu, India**  
-📧 **aswins3112sand@gmail.com**  
-🌐 **Portfolio:** https://aswin-portfolio-vdca.onrender.com  
-🔗 **LinkedIn:** https://linkedin.com/in/aswin3112  
+**Contact**
+- 📍 Thoothukudi, Tamil Nadu, India  
+- 📧 aswins3112sand@gmail.com  
+- 🌐 Portfolio: https://aswin-portfolio-vdca.onrender.com  
+- 🔗 LinkedIn: https://linkedin.com/in/aswin3112  
 
 ---
 
-# 🧠 What makes me different
+## 🧠 **What makes me different**
 
 | Strength | Evidence |
 |---------|---------|
-| Performance | Reduced DB latency by **35%** in Hotel system |
-| Reliability | Wrote **120+ API tests** |
-| Scalability | Designed pagination for **200+ listings/page** |
-| UI Quality | Built responsive, animated UIs |
-| DevOps | Deployed on Render, Railway, Koyeb |
-| Clean Code | Layered architecture, DTOs, services |
+| 🚀 Performance | Reduced DB latency by **35%** in Hotel system |
+| ✅ Reliability | Wrote **120+ API tests** |
+| 📈 Scalability | Designed pagination for **200+ listings/page** |
+| 🎨 UI Quality | Built responsive, animated UIs |
+| 🐳 DevOps | Deployed on Render, Railway, Koyeb |
+| 🧹 Clean Code | Layered architecture, DTOs, services |
 
 ---
 
-# 🛠️ Tech Stack (Enterprise Grade)
+## 🛠️ **Tech Stack — Enterprise Grade**
 
-### Backend
+### 🔹 Backend
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -63,7 +64,7 @@ I design and build:
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### Frontend
+### 🔹 Frontend
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -71,7 +72,7 @@ I design and build:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### DevOps & Tools
+### 🔹 DevOps & Tools
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -81,38 +82,41 @@ I design and build:
 
 ---
 
-# 🚀 Production Projects
+## 🚀 **Production Projects**
 
-## 🏨 **Hotel Booking System**
+### 🏨 Hotel Booking System  
 🔗 Live: https://hotel-booking-1-2.onrender.com  
-💡 Impact:
-- 35% faster queries  
+
+**Impact**
+- 35% faster DB queries  
 - 120+ API tests  
 - Layered architecture  
-- Secure JWT login  
+- Secure JWT authentication  
 
 ---
 
-## 🏠 **RealNest Portal**
+### 🏠 RealNest Portal  
 🔗 Live: https://realnest-thymeleaf-java21.onrender.com  
-💡 Impact:
+
+**Impact**
 - 200+ listings per page  
 - Clean MVC structure  
 - Pagination + filtering  
-- Fast rendering  
+- Optimized rendering  
 
 ---
 
-## 💃 **Dance 500+**
+### 💃 Dance 500+  
 🔗 Live: https://asdancz.in  
-💡 Impact:
+
+**Impact**
 - 500+ dance steps  
-- 50+ leads/day  
-- 5-star user feedback  
+- 50+ leads per day  
+- 5-star user ratings  
 
 ---
 
-# 📊 GitHub Performance
+## 📊 **GitHub Performance**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswin3112sand&theme=tokyonight&hide_border=true" width="48%" />
@@ -125,21 +129,21 @@ I design and build:
 
 ---
 
-# 🏆 Achievements
+## 🏆 **Achievements**
 
 - ✔ Reduced DB latency by **35%**  
-- ✔ Built 3 production apps  
-- ✔ Deployed on cloud platforms  
-- ✔ Designed mobile-first UIs  
-- ✔ API security with JWT  
+- ✔ Built **3 live production apps**  
+- ✔ Cloud deployments on Render, Railway, Koyeb  
+- ✔ Mobile-first UI designs  
+- ✔ Secure APIs with JWT  
 - ✔ Clean layered architecture  
 
 ---
 
-# 📍 Deployment Experience
+## 📍 **Deployment Experience**
 
-| Platform | Use |
-|---------|-----|
+| Platform | Purpose |
+|---------|---------|
 | Render | Spring Boot hosting |
 | Railway | Database + backend |
 | Koyeb | Container hosting |
@@ -148,17 +152,17 @@ I design and build:
 
 ---
 
-# 🗺️ Roadmap 2026
+## 🗺️ **Roadmap — 2026**
 
-- [ ] Microservices with Spring Cloud  
-- [ ] Kubernetes basics  
-- [ ] AWS deployment  
-- [ ] CI/CD pipeline  
-- [ ] System design portfolio  
+- ⬜ Microservices with Spring Cloud  
+- ⬜ Kubernetes basics  
+- ⬜ AWS deployment  
+- ⬜ CI/CD pipeline  
+- ⬜ System design portfolio  
 
 ---
 
-# 💼 Connect with Me
+## 💼 **Connect with Me**
 
 <p align="center">
 <a href="https://linkedin.com/in/aswin3112">
