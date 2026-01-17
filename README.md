@@ -1,166 +1,188 @@
-<!-- ===================== ULTRA PREMIUM SKY BLUE HEADER ===================== -->
+<!-- ============================================================ -->
+<!--                ULTRA PREMIUM SKY BLUE HEADER                -->
+<!-- ============================================================ -->
+
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:87CEEB&height=160&section=header&text=Aswin%20S&fontSize=45&fontColor=ffffff&desc=Java%20Full%20Stack%20Architect%20%7C%20Premium%20UI%2FUX%20Designer&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:87CEEB&height=170&section=header&text=Aswin%20S&fontSize=48&fontColor=ffffff&desc=Java%20Full%20Stack%20Engineer%20%7C%20System%20Designer&descSize=20"
     width="100%" />
 </div>
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=🚀+Enterprise+Full+Stack+Solutions;🛠️+Spring+Boot+%7C+React+%7C+Microservices;🎨+Ultra-Premium+UI%2FUX+Design;🎬+DaVinci+Resolve+Motion+Graphics;📈+Digital+Marketing+%26+SEO;⚡+Performance+Optimization" />
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Enterprise+Web+Systems;Spring+Boot+%7C+React+%7C+REST+APIs;High+Performance+Backends;Clean+Architecture+First;Production-Ready+Deployments" />
 </div>
 
-<!-- ===================== METRICS (CLEAN ALIGNMENT) ===================== -->
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=aswin3112sand&color=00BFFF&style=flat-square&label=Profile+Views" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/aswin3112sand?color=87CEEB&style=flat-square&label=Followers" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/stars/aswin3112sand?color=00BFFF&style=flat-square&label=Stars" />
-
+  <img src="https://komarev.com/ghpvc/?username=aswin3112sand&color=00BFFF&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/aswin3112sand?color=87CEEB&style=flat-square&label=Followers" />
+  <img src="https://img.shields.io/github/stars/aswin3112sand?color=00BFFF&style=flat-square&label=Stars" />
 </div>
 
 <br/>
 
-<!-- ===================== PROFESSIONAL INTRO ===================== -->
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" align="center">
+---
 
-### 👨‍💻 Enterprise Developer
+# 👨‍💻 About Me — **Aswin S**
 
-<b>Full Stack Architect</b> designing scalable, secure, and high-performance systems  
-with premium UI/UX and production-grade deployment.
+> **Java Full Stack Developer | Spring Boot Specialist | Performance Engineer**
 
-<details>
-<summary>🔭 Current Focus</summary>
+I design and build:
+- Scalable REST APIs  
+- Secure authentication systems  
+- Fast, mobile-first web apps  
+- Real production deployments  
 
-- Enterprise SaaS platforms  
-- Performance-optimized REST APIs  
-- Modern premium service websites  
-- AI-assisted development workflows  
-
-</details>
-
-</td>
-
-<td width="40%" align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=aswin3112sand&show_icons=true&theme=transparent&title_color=00BFFF&text_color=cccccc&hide_border=true"
-width="100%" />
-
-</td>
-</tr>
-</table>
+📍 **Thoothukudi, Tamil Nadu, India**  
+📧 **aswins3112sand@gmail.com**  
+🌐 **Portfolio:** https://aswin-portfolio-vdca.onrender.com  
+🔗 **LinkedIn:** https://linkedin.com/in/aswin3112  
 
 ---
 
-## 🛠️ Enterprise Skill Matrix
+# 🧠 What makes me different
 
-### Backend Excellence & Frontend Mastery
+| Strength | Evidence |
+|---------|---------|
+| Performance | Reduced DB latency by **35%** in Hotel system |
+| Reliability | Wrote **120+ API tests** |
+| Scalability | Designed pagination for **200+ listings/page** |
+| UI Quality | Built responsive, animated UIs |
+| DevOps | Deployed on Render, Railway, Koyeb |
+| Clean Code | Layered architecture, DTOs, services |
 
-<table align="center">
-<tr>
-<td align="center">
+---
+
+# 🛠️ Tech Stack (Enterprise Grade)
+
+### Backend
+<p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</td>
-<td align="center">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</td>
-</tr>
-
-<tr>
-<td align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</td>
-<td align="center">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### Frontend
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</td>
-<td align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</td>
-</tr>
-</table>
+</p>
 
-### Creative & Growth
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/DaVinci_Resolve-007AFF?style=for-the-badge&logo=davinci-resolve&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Digital_Marketing-FF6B35?style=for-the-badge&logo=google-analytics&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/SEO-00BFFF?style=for-the-badge&logo=google-search-console&logoColor=white" />
-</td>
-</tr>
-</table>
+### DevOps & Tools
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
-## 🏆 Production Deployments
+# 🚀 Production Projects
 
-| Enterprise | Client Projects | Creative |
-|------------|----------------|---------|
-| **Hotel Booking — Spring Boot + React**<br>https://hotel-booking-1-2.onrender.com | **Beauty Services — Full Stack**<br>https://aswin-portfolio-vdca.onrender.com | **Dance 500+ — HTML5 Animations**<br>https://asdancz.in |
-| **RealNest Portal — Java 21 + Bootstrap**<br>https://realnest-thymeleaf-java21.onrender.com | 50+ Leads Generated | DaVinci Resolve Studio |
-
----
-
-## 📊 Elite Analytics
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aswin3112sand&theme=dracula&row=2&column=5&margin-w=15" width="90%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aswin3112sand&theme=dracula&hide_border=true" width="47%" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin3112sand&layout=compact&theme=dracula&hide_border=true" width="47%" />
-</div>
+## 🏨 **Hotel Booking System**
+🔗 Live: https://hotel-booking-1-2.onrender.com  
+💡 Impact:
+- 35% faster queries  
+- 120+ API tests  
+- Layered architecture  
+- Secure JWT login  
 
 ---
 
-## 💼 Executive Connect
+## 🏠 **RealNest Portal**
+🔗 Live: https://realnest-thymeleaf-java21.onrender.com  
+💡 Impact:
+- 200+ listings per page  
+- Clean MVC structure  
+- Pagination + filtering  
+- Fast rendering  
 
-<div align="center">
+---
 
-<a href="https://aswin-portfolio-vdca.onrender.com">
-<img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-&nbsp;&nbsp;
+## 💃 **Dance 500+**
+🔗 Live: https://asdancz.in  
+💡 Impact:
+- 500+ dance steps  
+- 50+ leads/day  
+- 5-star user feedback  
+
+---
+
+# 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswin3112sand&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin3112sand&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aswin3112sand&show_icons=true&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+- ✔ Reduced DB latency by **35%**  
+- ✔ Built 3 production apps  
+- ✔ Deployed on cloud platforms  
+- ✔ Designed mobile-first UIs  
+- ✔ API security with JWT  
+- ✔ Clean layered architecture  
+
+---
+
+# 📍 Deployment Experience
+
+| Platform | Use |
+|---------|-----|
+| Render | Spring Boot hosting |
+| Railway | Database + backend |
+| Koyeb | Container hosting |
+| Hostinger | Static sites |
+| Nginx | Reverse proxy |
+
+---
+
+# 🗺️ Roadmap 2026
+
+- [ ] Microservices with Spring Cloud  
+- [ ] Kubernetes basics  
+- [ ] AWS deployment  
+- [ ] CI/CD pipeline  
+- [ ] System design portfolio  
+
+---
+
+# 💼 Connect with Me
+
+<p align="center">
 <a href="https://linkedin.com/in/aswin3112">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;
+
 <a href="mailto:aswins3112sand@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+<a href="https://aswin-portfolio-vdca.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</p>
 
 ---
 
-<!-- ===================== SKY BLUE FOOTER ===================== -->
+<!-- SKY BLUE FOOTER -->
 <div align="center">
-<img 
-src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=120&section=footer&text=Enterprise%20Grade%20Developer&fontSize=24&fontColor=ffffff"
-width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=120&section=footer&text=Enterprise%20Ready%20Engineer&fontSize=24&fontColor=ffffff"
+    width="100%" />
 </div>
 
-<div align="center" style="font-size:12px;color:#888;">
-<i>Built with ❤️ using GitHub README Magic ✨</i>
+<div align="center">
+<i>Built with ❤️ by Aswin S</i>
 </div>
