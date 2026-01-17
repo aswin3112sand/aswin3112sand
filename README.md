@@ -1,7 +1,7 @@
-<!-- ===================== ULTRA PREMIUM SKY BLUE HEADER ===================== -->
+<!-- ===================== ULTRA PREMIUM SKY BLUE HEADER (RELIABLE) ===================== -->
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:87CEEB&height=160&section=header&text=Aswin%20S&fontSize=45&fontColor=ffffff&desc=Java%20Full%20Stack%20Architect%20%7C%20Premium%20UI%2FUX%20Designer&descSize=20&descAlignY=65"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:87CEEB&height=160&section=header&text=Aswin%20S&fontSize=45&fontColor=ffffff&desc=Java%20Full%20Stack%20Architect%20%7C%20Premium%20UI%2FUX%20Designer&descSize=20"
     width="100%" />
 </div>
 
@@ -10,7 +10,7 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=🚀+Enterprise+Full+Stack+Solutions;🛠️+Spring+Boot+%7C+React+%7C+Microservices;🎨+Ultra-Premium+UI%2FUX+Design;🎬+DaVinci+Resolve+Motion+Graphics;📈+Digital+Marketing+%26+SEO;⚡+Performance+Optimization" />
 </div>
 
-<!-- ===================== CLEAN METRICS (FIXED ICONS) ===================== -->
+<!-- ===================== CLEAN METRICS (SAFE ICONS) ===================== -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aswin3112sand&color=00BFFF&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/aswin3112sand?color=87CEEB&style=flat-square&label=Followers" />
@@ -40,7 +40,7 @@
     </td>
     <td width="40%" align="center">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=aswin3112sand&show_icons=true&theme=transparent&title_color=00BFFF&text_color=cccccc&bg_color=00000000&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=aswin3112sand&show_icons=true&theme=transparent&title_color=00BFFF&text_color=cccccc&hide_border=true"
         width="100%" />
     </td>
   </tr>
@@ -109,12 +109,12 @@
 | **Hotel Booking** — Spring Boot + React<br>https://hotel-booking-1-2.onrender.com | **Beauty Services** — Full Stack<br>https://aswin-portfolio-vdca.onrender.com | **Dance 500+** — HTML5 Animations<br>https://asdancz.in |
 | **RealNest Portal** — Java 21 + Bootstrap<br>https://realnest-thymeleaf-java21.onrender.com | 50+ Leads Generated | DaVinci Resolve Studio |
 
-<!-- ===================== ELITE ANALYTICS ===================== -->
+<!-- ===================== ELITE ANALYTICS (SAFE) ===================== -->
 <h2 align="center">📊 Elite Analytics</h2>
 
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=aswin3112sand&theme=dracula&row=2&column=5&margin-w=15&no-bg=true" 
+    src="https://github-profile-trophy.vercel.app/?username=aswin3112sand&theme=dracula&row=2&column=5&margin-w=15"
     width="90%" />
 </div>
 
@@ -127,10 +127,10 @@
     width="47%" />
 </div>
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
+<!-- ===================== ACTIVITY GRAPH (RELIABLE THEME) ===================== -->
 <div align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aswin3112sand&theme=dracula&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aswin3112sand&theme=react-dark"
     width="100%" />
 </div>
 
