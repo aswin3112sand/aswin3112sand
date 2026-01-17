@@ -1,119 +1,118 @@
-<!-- ===================== ADVANCED ANIMATED HEADER ===================== -->
+<!-- ===================== WORLD-CLASS ANIMATED HEADER ===================== -->
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=170&section=header&text=Aswin%20S&fontSize=48&fontColor=ffffff&desc=Java%20Full%20Stack%20Developer%20%7C%20Web%20Designer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=170&section=header&text=Aswin%20S&fontSize=48&fontColor=ffffff&desc=Java%20Full%20Stack%20Developer%20%7C%20Web%20Designer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=170&section=header&text=Aswin%20S&fontSize=48&fontColor=ffffff&desc=Java%20Full%20Stack%20Developer%20%7C%20Web%20Designer" width="100%" alt="Header Banner">
+  </picture>
+</p>
+
+<!-- ===================== PREMIUM TYPING ANIMATION ===================== -->
+<div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=170&section=header&text=Aswin%20S&fontSize=48&fontColor=ffffff&desc=Java%20Full%20Stack%20Developer%20%7C%20Web%20Designer&descAlignY=65"
-    width="100%"
+    src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=24&duration=3500&pause=1200&color=2575FC&center=true&vCenter=true&width=750&lines=🔥+Building+Premium+Web+Apps+%26+Digital+Growth;🛠️+Java+Spring+Boot+%7C+React+%7C+Bootstrap;🎨+HTML%2FCSS%2FJS+%7C+DaVinci+Resolve+Pro;⚡+Performance+Full-Stack+Developer;📈+SEO+%26+Marketing+Strategies"
+    alt="Typing Animation"
   />
-</p>
+</div>
 
-<!-- ===================== MULTI-LINE TYPING ANIMATION ===================== -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=700&lines=Building+Premium+Web+Apps+%26+Digital+Marketing;🔹+Java+Spring+Boot+%7C+React+%7C+Bootstrap;🔹+HTML%2FCSS%2FJS+%7C+DaVinci+Video+Editing;🔹+Performance+Driven+Full-Stack+Dev;🔹+SEO+%26+Growth+Hacking+Expert"
-  />
-</p>
-
-<!-- ===================== VISITOR COUNTER ===================== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aswin3112sand&color=2575FC&style=flat-square&label=Profile%20Views" />
-  <img src="https://img.shields.io/github/profile-updater-week/aswin3112sand/gradient?color=2575FC&label=Last%20Updated" />
-</p>
+<!-- ===================== ULTRA-RELIABLE VISITOR + STATS ===================== -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aswin3112sand&color=6a11cb&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/profile-updater-week/aswin3112sand/gradient?style=flat-square&color=2575fc&label=Last+Updated" alt="Last Updated" />
+  <img height="20" src="<https://img.shields.io/badge/dynamic/json?logo=github&color=6a11cb&label=Stars&query=%24>[0].value&url=https://api.github.com/repos/aswin3112sand&style=flat-square" alt="Total Stars" />
+</div>
 
 ---
 
-## 👋 Premium Developer Profile
-- 🚀 **Java Full Stack Developer & Web Designer** — Thoothukudi, Tamil Nadu 🇮🇳  
-- Passionate about **ultra-premium UI/UX**, scalable apps & digital growth  
-- **Beauty Parlor/Service Websites** | **AI-Assisted Coding** | **Video Production**
+## 👋 🌟 World-Class Developer
+<div align="center">
+  <strong>Java Full Stack Developer & Premium Web Designer</strong> <img src="https://em-content.zeppelin.solutions/%F0%9F%87%AE%F0%9F%87%B3.png" width="20" alt="India"> Thoothukudi, Tamil Nadu
+</div>
+
+**🔥 Specialties:** Ultra-premium UI/UX | Scalable APIs | Service Industry Websites | AI Coding | Video Production
 
 ---
 
-## 🛠️ Advanced Tech Stack
+## 🛠️ 💎 PRO Tech Stack (All Verified Badges)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git/GitHub" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-007AFF?style=for-the-badge&logo=davinci-resolve&logoColor=white" alt="DaVinci Resolve" />
-  <img src="https://img.shields.io/badge/Digital%20Marketing-FF6B35?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Digital Marketing" />
-</p>
+### Frontend Mastery
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
+### Backend Power
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🚀 Featured Projects (Premium Showcase)
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-| Project | Description | Tech Stack | Live Demo | GitHub Stars |
-|---------|-------------|------------|-----------|--------------|
-| **Hotel Booking System** | Full-stack booking platform with payments & admin dashboard | Spring Boot + React + MySQL | [Live](https://hotel-booking-1-2.onrender.com) | ![Stars](https://img.shields.io/github/stars/aswin3112sand/Hotel-booking--1-?style=social) |
-| **RealNest Portal** | Real estate listing with advanced search & maps | Java 21 + Thymeleaf + Bootstrap | [Live](https://realnest-thymeleaf-java21.onrender.com) | ![Stars](https://img.shields.io/github/stars/aswin3112sand/realnest-thymeleaf-java21?style=social) |
-| **Beauty Parlor Websites** | Premium service booking sites (multiple clients) | React + Bootstrap + Spring Boot | [Portfolio](https://aswin-portfolio-vdca.onrender.com) | [View Repos](https://github.com/aswin3112sand?tab=repositories) |
-| **Dance Tutorial Platform** | 500+ step tutorials with video player | HTML/CSS/JS + Custom Animations | [Live](https://asdancz.in) | ![Stars](https://img.shields.io/github/stars/aswin3112sand/dance-500-bundle?style=social) |
+### Creative Pro
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-007AFF?style=for-the-badge&logo=davinci-resolve&logoColor=white)
+![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-FF6B35?style=for-the-badge&logo=google-analytics&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Premium Analytics
+## 🚀 🔥 Featured Masterpieces
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswin3112sand&theme=tokyonight&hide_border=true&stroke=2575FC&background=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin3112sand&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2575FC&text_color=FFFFFF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aswin3112sand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2575FC&text_color=FFFFFF&include_all_commits=true" width="70%" />
-</p>
+| Project | Tech | Live Demo | Metrics |
+|---------|------|-----------|---------|
+| **Hotel Booking** | Spring Boot + React + MySQL | [![Live](https://img.shields.io/badge/Live-2575FC?style=flat-square&logo=heroku&logoColor=white)](https://hotel-booking-1-2.onrender.com) | ![Stars](https://img.shields.io/github/stars/aswin3112sand/Hotel-booking--1-?color=6a11cb&style=flat-square) |
+| **RealNest Portal** | Java21 + Thymeleaf + Bootstrap | [![Live](https://img.shields.io/badge/Live-2575FC?style=flat-square&logo=heroku&logoColor=white)](https://realnest-thymeleaf-java21.onrender.com) | ![Stars](https://img.shields.io/github/stars/aswin3112sand/realnest-thymeleaf-java21?color=6a11cb&style=flat-square) |
+| **Beauty Parlor Sites** | React + Bootstrap + Full-Stack | [![Portfolio](https://img.shields.io/badge/Portfolio-2575FC?style=flat-square&logo=googlechrome&logoColor=white)](https://aswin-portfolio-vdca.onrender.com) | Client Projects |
+| **Dance 500+ Tutorials** | HTML/CSS/JS + Animations | [![Live](https://img.shields.io/badge/Live-2575FC?style=flat-square&logo=vercel&logoColor=white)](https://asdancz.in) | 50+ Leads/Day |
 
 ---
 
-## 🏆 GitHub Trophies & Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aswin3112sand&theme=tokyonight&row=2&column=5&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
+## 📈 🏆 GitHub Analytics (Premium Theme)
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswin3112sand&theme=radical&hide_border=true&stroke=6a11cb&background=121212" alt="Streak Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin3112sand&layout=compact&theme=radical&hide_border=true&bg_color=121212&title_color=2575fc" alt="Top Languages" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aswin3112sand&show_icons=true&theme=radical&hide_border=true&bg_color=121212&title_color=2575fc&include_all_commits=true" alt="Main Stats" width="75%"/>
+</div>
 
 ---
 
-## 🎥 Creative Skills
-- **DaVinci Resolve Video Editing**: Professional motion graphics & color grading [attached_file:1].
-- **Digital Marketing**: SEO, Google Analytics, growth strategies for service websites [memory:2].
+## 🏅 GitHub Trophies (World-Class)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aswin3112sand&theme=radical&row=2&column=6&margin-w=15&no-bg=true" alt="Trophies"/>
+</div>
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/aswin3112">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://aswin-portfolio-vdca.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:aswins3112sand@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/aswin3112sand?tab=followers">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+## 🎬 Creative Edge
+- **DaVinci Resolve Pro**: Motion graphics, color grading, premium video edits [attached_file:1]
+- **Digital Marketing**: SEO, Analytics, Growth for service businesses [memory:2]
 
 ---
 
-## ⭐ Core Principles
-> **Premium UI/UX • Scalable Architecture • Clean Code • Real-World Deployments • Client-First Design**
+## 🔗 Connect Pro
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aswin3112)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aswin-portfolio-vdca.onrender.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswins3112sand@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aswin3112sand)
+</div>
 
-<!-- ===================== ANIMATED FOOTER ===================== -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=90&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff"
-    width="100%"
-  />
-</p>
+---
+
+## 💼 Philosophy
+> **Premium Design • Zero-Bug Code • Scalable Architecture • Client Success First**
+
+<!-- ===================== LEGENDARY FOOTER ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=28&fontColor=ffffff" width="100%" alt="Footer Banner"/>
+</div>
