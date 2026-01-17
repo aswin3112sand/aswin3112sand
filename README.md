@@ -1,10 +1,10 @@
 <!-- ============================================================ -->
-<!--                ULTRA PREMIUM SKY BLUE HEADER                -->
+<!--                ULTRA PREMIUM ANIMATED HEADER                -->
 <!-- ============================================================ -->
 
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:87CEEB&height=170&section=header&text=Aswin%20S&fontSize=48&fontColor=ffffff&desc=Java%20Full%20Stack%20Engineer%20%7C%20System%20Designer&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:87CEEB&height=170&section=header&text=Aswin%20S&fontSize=48&fontColor=ffffff&desc=Java%20Full%20Stack%20Engineer%20%7C%20System%20Designer&descSize=20&animation=twinkling"
     width="100%" />
 </div>
 
@@ -19,13 +19,15 @@
   <img src="https://img.shields.io/github/stars/aswin3112sand?color=00BFFF&style=flat-square&label=Stars" />
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:87CEEB&height=3&section=header" width="100%"/>
 
 ---
 
 ## 👨‍💻 **About Me — Aswin S**
 
 > **Java Full Stack Developer • Spring Boot Specialist • Performance Engineer**
+
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 **What I build**
 - ⚡ Scalable REST APIs  
@@ -38,6 +40,8 @@
 - 📧 aswins3112sand@gmail.com  
 - 🌐 Portfolio: https://aswin-portfolio-vdca.onrender.com  
 - 🔗 LinkedIn: https://linkedin.com/in/aswin3112  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:87CEEB,100:00BFFF&height=3" width="100%"/>
 
 ---
 
@@ -52,9 +56,11 @@
 | 🐳 DevOps | Deployed on Render, Railway, Koyeb |
 | 🧹 Clean Code | Layered architecture, DTOs, services |
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:87CEEB&height=3" width="100%"/>
+
 ---
 
-## 🛠️ **Tech Stack — Enterprise Grade**
+## 🛠️ **Tech Stack — Animated Badges**
 
 ### 🔹 Backend
 <p align="center">
@@ -79,6 +85,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:87CEEB,100:00BFFF&height=3" width="100%"/>
 
 ---
 
@@ -114,9 +122,11 @@
 - 50+ leads per day  
 - 5-star user ratings  
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:87CEEB&height=3" width="100%"/>
+
 ---
 
-## 📊 **GitHub Performance**
+## 📊 **Animated GitHub Dashboard**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswin3112sand&theme=tokyonight&hide_border=true" width="48%" />
@@ -126,6 +136,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aswin3112sand&show_icons=true&theme=tokyonight&hide_border=true" width="70%" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswin3112sand&theme=react-dark&hide_border=true" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:87CEEB,100:00BFFF&height=3" width="100%"/>
 
 ---
 
@@ -180,13 +196,14 @@
 
 ---
 
-<!-- SKY BLUE FOOTER -->
+<!-- SKY BLUE ANIMATED FOOTER -->
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=120&section=footer&text=Enterprise%20Ready%20Engineer&fontSize=24&fontColor=ffffff"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=120&section=footer&text=Enterprise%20Ready%20Engineer&fontSize=24&fontColor=ffffff&animation=twinkling"
     width="100%" />
 </div>
 
 <div align="center">
 <i>Built with ❤️ by Aswin S</i>
 </div>
+
